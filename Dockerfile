@@ -1,6 +1,6 @@
 FROM node:11.10.0-alpine
 
-LABEL maintainer="jamesmckeown@gmail.com"
+LABEL maintainer="m.halliday@hotmail.co.uk"
 
 # Install awscli
 RUN \
